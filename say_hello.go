@@ -1,5 +1,5 @@
 package go_afk
 
 func SayHello() string {
-	return "hello"
+	return "hello Bang Faiz"
 }
